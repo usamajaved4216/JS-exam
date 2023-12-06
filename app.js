@@ -1,7 +1,6 @@
 // //question 1
 
 // const fruits = ["apple" , "banana" , "mango" , "orange" , "strawberry"];
-// const div = document.querySelector('.div');
 
 // for(let i = 0; i < fruits.length; i++){
 //      console.log(fruits[i]);
